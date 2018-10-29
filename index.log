@@ -1,0 +1,99 @@
+-= Index Builder for Batman =-
+Building on /data/tennakoon/git/batvi/batvi1.02
+Stripping /data/tennakoon/index/HBVAll/HBVall.fa and filtering nucleotides...
+/data/tennakoon/git/batvi/batvi1.02/BatMis-3.00/bin/filter: /usr/lib64/libstdc++.so.6: version `GLIBCXX_3.4.21' not found (required by /data/tennakoon/git/batvi/batvi1.02/BatMis-3.00/bin/filter)
+Creating FASTA file of Reverse of the Genome...
+reverse:  Unable to get length of /data/tennakoon/index/HBVAll/HBVall.fa.bin.
+reverse:  Can't open input file /data/tennakoon/index/HBVAll/HBVall.fa.bin.
+Creating FM index of reverse genome...
+BWTIncCreate() : targetNBit is too low!
+BWTFormatdb v1.0, Copyright (C) 2006, Wong Chi Kwong.
+BWTFormatdb comes with ABSOLUTELY NO WARRENTY.
+BWTFormatdb is free software, and you are welcome to
+redistribute it under certain conditions.
+For details type BWTFormatdb.
+
+Loading /data/tennakoon/git/batvi/batvi1.02/BatMis-3.00/bin/bwtformatdb.ini ..not found.
+
+Parse FASTA file    : Y
+Build BWT           : Y
+Build SA value      : Y
+Build SA index      : Y
+
+Show progress       : N
+
+Parse FASTA :
+Mask lower case         : N
+Random seed             : 0
+
+Build BWT :
+Target N Bits           : 2.50
+Occ value frequency     : 256
+Initial Max Build Size  : 10000000    Inc Max Build Size : 10000000
+
+Build SA value :
+SA value frequency      : 8
+
+Build SA index :
+SA index no. of char    : 12
+
+Annotation file          : /data/tennakoon/index/HBVAll/revHBVall.fa.ann
+Ambigurity file          : /data/tennakoon/index/HBVAll/revHBVall.fa.amb
+Packed DNA file          : /data/tennakoon/index/HBVAll/revHBVall.fa.pac
+BWT Code file            : /data/tennakoon/index/HBVAll/revHBVall.fa.bwt
+BWT Occ value file       : /data/tennakoon/index/HBVAll/revHBVall.fa.fmv
+SA value file            : /data/tennakoon/index/HBVAll/revHBVall.fa.sa
+Cached SA index file     : /data/tennakoon/index/HBVAll/revHBVall.fa.sai
+
+Parsing FASTA file..
+Finished. Parsed 1 sequences.
+Elapsed time = 0.00 s
+
+Building BWT..
+rm: cannot remove `/data/tennakoon/index/HBVAll/revHBVall.fa.sai': No such file or directory
+Creating FM index of the genome...
+-ÿ- ParseFASTToPacked() : FASTA file does not begin with '>'!
+BWTFormatdb v1.0, Copyright (C) 2006, Wong Chi Kwong.
+BWTFormatdb comes with ABSOLUTELY NO WARRENTY.
+BWTFormatdb is free software, and you are welcome to
+redistribute it under certain conditions.
+For details type BWTFormatdb.
+
+Loading /data/tennakoon/git/batvi/batvi1.02/BatMis-3.00/bin/bwtformatdb.ini ..not found.
+
+Parse FASTA file    : Y
+Build BWT           : Y
+Build SA value      : Y
+Build SA index      : Y
+
+Show progress       : N
+
+Parse FASTA :
+Mask lower case         : N
+Random seed             : 0
+
+Build BWT :
+Target N Bits           : 2.50
+Occ value frequency     : 256
+Initial Max Build Size  : 10000000    Inc Max Build Size : 10000000
+
+Build SA value :
+SA value frequency      : 8
+
+Build SA index :
+SA index no. of char    : 12
+
+Annotation file          : /data/tennakoon/index/HBVAll/HBVall.fa.non.ann
+Ambigurity file          : /data/tennakoon/index/HBVAll/HBVall.fa.non.amb
+Packed DNA file          : /data/tennakoon/index/HBVAll/HBVall.fa.non.pac
+BWT Code file            : /data/tennakoon/index/HBVAll/HBVall.fa.non.bwt
+BWT Occ value file       : /data/tennakoon/index/HBVAll/HBVall.fa.non.fmv
+SA value file            : /data/tennakoon/index/HBVAll/HBVall.fa.non.sa
+Cached SA index file     : /data/tennakoon/index/HBVAll/HBVall.fa.non.sai
+
+Parsing FASTA file..
+Deleting auxilliary files...
+mv: cannot stat `/data/tennakoon/index/HBVAll/HBVall.fa.non.fmv': No such file or directory
+mv: cannot stat `/data/tennakoon/index/HBVAll/HBVall.fa.non.bwt': No such file or directory
+mv: cannot stat `/data/tennakoon/index/HBVAll/HBVall.fa.non.sa': No such file or directory
+rm: cannot remove `/data/tennakoon/index/HBVAll/HBVall.fa.non.sai': No such file or directory

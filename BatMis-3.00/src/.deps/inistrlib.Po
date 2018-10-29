@@ -1,0 +1,82 @@
+inistrlib.o: inistrlib.c \
+ /data/tennakoon/miniconda2/x86_64-conda_cos6-linux-gnu/sysroot/usr/include/string.h \
+ /data/tennakoon/miniconda2/x86_64-conda_cos6-linux-gnu/sysroot/usr/include/features.h \
+ /data/tennakoon/miniconda2/x86_64-conda_cos6-linux-gnu/sysroot/usr/include/sys/cdefs.h \
+ /data/tennakoon/miniconda2/x86_64-conda_cos6-linux-gnu/sysroot/usr/include/bits/wordsize.h \
+ /data/tennakoon/miniconda2/x86_64-conda_cos6-linux-gnu/sysroot/usr/include/gnu/stubs.h \
+ /data/tennakoon/miniconda2/x86_64-conda_cos6-linux-gnu/sysroot/usr/include/gnu/stubs-64.h \
+ /data/tennakoon/miniconda2/lib/gcc/x86_64-conda_cos6-linux-gnu/7.2.0/include/stddef.h \
+ /data/tennakoon/miniconda2/x86_64-conda_cos6-linux-gnu/sysroot/usr/include/xlocale.h \
+ /data/tennakoon/miniconda2/x86_64-conda_cos6-linux-gnu/sysroot/usr/include/bits/string.h \
+ /data/tennakoon/miniconda2/x86_64-conda_cos6-linux-gnu/sysroot/usr/include/bits/string2.h \
+ /data/tennakoon/miniconda2/x86_64-conda_cos6-linux-gnu/sysroot/usr/include/endian.h \
+ /data/tennakoon/miniconda2/x86_64-conda_cos6-linux-gnu/sysroot/usr/include/bits/endian.h \
+ /data/tennakoon/miniconda2/x86_64-conda_cos6-linux-gnu/sysroot/usr/include/bits/byteswap.h \
+ /data/tennakoon/miniconda2/x86_64-conda_cos6-linux-gnu/sysroot/usr/include/bits/types.h \
+ /data/tennakoon/miniconda2/x86_64-conda_cos6-linux-gnu/sysroot/usr/include/bits/typesizes.h \
+ /data/tennakoon/miniconda2/x86_64-conda_cos6-linux-gnu/sysroot/usr/include/stdlib.h \
+ /data/tennakoon/miniconda2/x86_64-conda_cos6-linux-gnu/sysroot/usr/include/ctype.h \
+ /data/tennakoon/miniconda2/x86_64-conda_cos6-linux-gnu/sysroot/usr/include/malloc.h \
+ /data/tennakoon/miniconda2/x86_64-conda_cos6-linux-gnu/sysroot/usr/include/stdio.h \
+ /data/tennakoon/miniconda2/x86_64-conda_cos6-linux-gnu/sysroot/usr/include/libio.h \
+ /data/tennakoon/miniconda2/x86_64-conda_cos6-linux-gnu/sysroot/usr/include/_G_config.h \
+ /data/tennakoon/miniconda2/x86_64-conda_cos6-linux-gnu/sysroot/usr/include/wchar.h \
+ /data/tennakoon/miniconda2/lib/gcc/x86_64-conda_cos6-linux-gnu/7.2.0/include/stdarg.h \
+ /data/tennakoon/miniconda2/x86_64-conda_cos6-linux-gnu/sysroot/usr/include/bits/stdio_lim.h \
+ /data/tennakoon/miniconda2/x86_64-conda_cos6-linux-gnu/sysroot/usr/include/bits/sys_errlist.h \
+ /data/tennakoon/miniconda2/x86_64-conda_cos6-linux-gnu/sysroot/usr/include/bits/stdio.h \
+ inistrlib.h
+
+/data/tennakoon/miniconda2/x86_64-conda_cos6-linux-gnu/sysroot/usr/include/string.h:
+
+/data/tennakoon/miniconda2/x86_64-conda_cos6-linux-gnu/sysroot/usr/include/features.h:
+
+/data/tennakoon/miniconda2/x86_64-conda_cos6-linux-gnu/sysroot/usr/include/sys/cdefs.h:
+
+/data/tennakoon/miniconda2/x86_64-conda_cos6-linux-gnu/sysroot/usr/include/bits/wordsize.h:
+
+/data/tennakoon/miniconda2/x86_64-conda_cos6-linux-gnu/sysroot/usr/include/gnu/stubs.h:
+
+/data/tennakoon/miniconda2/x86_64-conda_cos6-linux-gnu/sysroot/usr/include/gnu/stubs-64.h:
+
+/data/tennakoon/miniconda2/lib/gcc/x86_64-conda_cos6-linux-gnu/7.2.0/include/stddef.h:
+
+/data/tennakoon/miniconda2/x86_64-conda_cos6-linux-gnu/sysroot/usr/include/xlocale.h:
+
+/data/tennakoon/miniconda2/x86_64-conda_cos6-linux-gnu/sysroot/usr/include/bits/string.h:
+
+/data/tennakoon/miniconda2/x86_64-conda_cos6-linux-gnu/sysroot/usr/include/bits/string2.h:
+
+/data/tennakoon/miniconda2/x86_64-conda_cos6-linux-gnu/sysroot/usr/include/endian.h:
+
+/data/tennakoon/miniconda2/x86_64-conda_cos6-linux-gnu/sysroot/usr/include/bits/endian.h:
+
+/data/tennakoon/miniconda2/x86_64-conda_cos6-linux-gnu/sysroot/usr/include/bits/byteswap.h:
+
+/data/tennakoon/miniconda2/x86_64-conda_cos6-linux-gnu/sysroot/usr/include/bits/types.h:
+
+/data/tennakoon/miniconda2/x86_64-conda_cos6-linux-gnu/sysroot/usr/include/bits/typesizes.h:
+
+/data/tennakoon/miniconda2/x86_64-conda_cos6-linux-gnu/sysroot/usr/include/stdlib.h:
+
+/data/tennakoon/miniconda2/x86_64-conda_cos6-linux-gnu/sysroot/usr/include/ctype.h:
+
+/data/tennakoon/miniconda2/x86_64-conda_cos6-linux-gnu/sysroot/usr/include/malloc.h:
+
+/data/tennakoon/miniconda2/x86_64-conda_cos6-linux-gnu/sysroot/usr/include/stdio.h:
+
+/data/tennakoon/miniconda2/x86_64-conda_cos6-linux-gnu/sysroot/usr/include/libio.h:
+
+/data/tennakoon/miniconda2/x86_64-conda_cos6-linux-gnu/sysroot/usr/include/_G_config.h:
+
+/data/tennakoon/miniconda2/x86_64-conda_cos6-linux-gnu/sysroot/usr/include/wchar.h:
+
+/data/tennakoon/miniconda2/lib/gcc/x86_64-conda_cos6-linux-gnu/7.2.0/include/stdarg.h:
+
+/data/tennakoon/miniconda2/x86_64-conda_cos6-linux-gnu/sysroot/usr/include/bits/stdio_lim.h:
+
+/data/tennakoon/miniconda2/x86_64-conda_cos6-linux-gnu/sysroot/usr/include/bits/sys_errlist.h:
+
+/data/tennakoon/miniconda2/x86_64-conda_cos6-linux-gnu/sysroot/usr/include/bits/stdio.h:
+
+inistrlib.h:

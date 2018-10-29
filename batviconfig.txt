@@ -1,0 +1,15 @@
+INDEX=/data/tennakoon/index/HBVAll/HBVall.fa
+PATHOGEN_BLAST_DB=/data/tennakoon/index/HBVAll/blast/HBVall.fa
+HG_BLAST_DB=/data/tennakoon/index/hg19/blast/hg19.fa
+HG_GENOME=/data/tennakoon/index/hg19/batmis/hg19.fa
+
+HG_BWA=/data/tennakoon/index/hg19/bwa/hg19.fa
+PATHOGEN_BWA=/data/tennakoon/index/HBVAll/bwa/HBVall.fa
+
+BLAST_PATH=/data/local/libexec/ncbi-blast-2.6.0+/bin
+BWA_PATH=/data/tennakoon/bin
+PICARD_PATH=/data/tennakoon/bin/
+SAMTOOLS_PATH=/data/local/bin
+BEDTOOLS_PATH=/usr/bin
+
+

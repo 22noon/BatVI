@@ -1,0 +1,40 @@
+r250.o: r250.c \
+ /data/tennakoon/miniconda2/lib/gcc/x86_64-conda_cos6-linux-gnu/7.2.0/include-fixed/limits.h \
+ /data/tennakoon/miniconda2/lib/gcc/x86_64-conda_cos6-linux-gnu/7.2.0/include-fixed/syslimits.h \
+ /data/tennakoon/miniconda2/x86_64-conda_cos6-linux-gnu/sysroot/usr/include/limits.h \
+ /data/tennakoon/miniconda2/x86_64-conda_cos6-linux-gnu/sysroot/usr/include/features.h \
+ /data/tennakoon/miniconda2/x86_64-conda_cos6-linux-gnu/sysroot/usr/include/sys/cdefs.h \
+ /data/tennakoon/miniconda2/x86_64-conda_cos6-linux-gnu/sysroot/usr/include/bits/wordsize.h \
+ /data/tennakoon/miniconda2/x86_64-conda_cos6-linux-gnu/sysroot/usr/include/gnu/stubs.h \
+ /data/tennakoon/miniconda2/x86_64-conda_cos6-linux-gnu/sysroot/usr/include/gnu/stubs-64.h \
+ /data/tennakoon/miniconda2/x86_64-conda_cos6-linux-gnu/sysroot/usr/include/bits/posix1_lim.h \
+ /data/tennakoon/miniconda2/x86_64-conda_cos6-linux-gnu/sysroot/usr/include/bits/local_lim.h \
+ /data/tennakoon/miniconda2/x86_64-conda_cos6-linux-gnu/sysroot/usr/include/linux/limits.h \
+ /data/tennakoon/miniconda2/x86_64-conda_cos6-linux-gnu/sysroot/usr/include/bits/posix2_lim.h \
+ r250.h
+
+/data/tennakoon/miniconda2/lib/gcc/x86_64-conda_cos6-linux-gnu/7.2.0/include-fixed/limits.h:
+
+/data/tennakoon/miniconda2/lib/gcc/x86_64-conda_cos6-linux-gnu/7.2.0/include-fixed/syslimits.h:
+
+/data/tennakoon/miniconda2/x86_64-conda_cos6-linux-gnu/sysroot/usr/include/limits.h:
+
+/data/tennakoon/miniconda2/x86_64-conda_cos6-linux-gnu/sysroot/usr/include/features.h:
+
+/data/tennakoon/miniconda2/x86_64-conda_cos6-linux-gnu/sysroot/usr/include/sys/cdefs.h:
+
+/data/tennakoon/miniconda2/x86_64-conda_cos6-linux-gnu/sysroot/usr/include/bits/wordsize.h:
+
+/data/tennakoon/miniconda2/x86_64-conda_cos6-linux-gnu/sysroot/usr/include/gnu/stubs.h:
+
+/data/tennakoon/miniconda2/x86_64-conda_cos6-linux-gnu/sysroot/usr/include/gnu/stubs-64.h:
+
+/data/tennakoon/miniconda2/x86_64-conda_cos6-linux-gnu/sysroot/usr/include/bits/posix1_lim.h:
+
+/data/tennakoon/miniconda2/x86_64-conda_cos6-linux-gnu/sysroot/usr/include/bits/local_lim.h:
+
+/data/tennakoon/miniconda2/x86_64-conda_cos6-linux-gnu/sysroot/usr/include/linux/limits.h:
+
+/data/tennakoon/miniconda2/x86_64-conda_cos6-linux-gnu/sysroot/usr/include/bits/posix2_lim.h:
+
+r250.h:
